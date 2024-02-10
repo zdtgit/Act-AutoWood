@@ -1,0 +1,4 @@
+main: "com.act.autowood.ActAutoWood"
+name: "ActAutoWood"
+version: "1.0"
+api-version: "1.20"
